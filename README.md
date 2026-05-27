@@ -52,28 +52,6 @@ shaped by computer science, aerospace outreach, and business analytics.
 
 ---
 
-### `// SELECTED WORK`
-
-| PROJECT | STACK | DESCRIPTION |
-|---|---|---|
-| ✈️ **UAV Simulation Lab** | `Python · JS · Physics Engine` | Physics-based drone simulation platform for aerospace education |
-| 📊 **Gold Transaction Analytics** | `Python · Excel · AI Tool Calling` | Automation platform for digital gold trend analysis |
-| 🎓 **Student Performance Predictor** | `Python · ML · ID3 Decision Tree` | Framework for identifying at-risk students |
-| 🖼 **Image Dataset Pipeline** | `Python · Computer Vision` | High-efficiency AI dataset preparation & quality control |
-
----
-
-### `// STATS`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adharsh96&show_icons=true&theme=transparent&title_color=F97316&text_color=ffffff&icon_color=F97316&border_color=2B2B2B&bg_color=1A1A1A)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adharsh96&layout=compact&theme=transparent&title_color=F97316&text_color=ffffff&border_color=2B2B2B&bg_color=1A1A1A)
-
-</div>
-
----
-
 ### `// CONNECT`
 
 <div align="center">
