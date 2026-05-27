@@ -19,9 +19,7 @@
 
 ---
 
-**I build rapid prototypes, AI-driven workflows, and full-stack tools that turn rough ideas into working systems.**
-Work lives between Python, JavaScript, LLM integrations, data pipelines, and visual communication —
-shaped by computer science, aerospace outreach, and business analytics.
+Part engineer, part designer, part tinkerer. I build AI-powered apps, design web experiences, automate the boring stuff, and occasionally simulate drones. Rapid prototyping is my love language.
 
 ---
 
