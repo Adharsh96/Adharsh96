@@ -1,6 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1A1A,50:2B2B2B,100:F97316&text=Adharsh%20M%20R&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=AI%20Developer%20|%20Generative%20AI%20Engineer&descAlignY=58&animation=fadeIn"/>
+[![header](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1A1A1A,50:2B2B2B,100:1A1A1A&text=ADHARSH%20M%20R&fontColor=F97316&fontSize=38&fontAlignY=55&desc=AI%20DEVELOPER%20%C2%B7%20GENERATIVE%20AI%20ENGINEER&descColor=888888&descSize=13&descAlignY=78&animation=fadeIn)](https://adharsh96.github.io/Portfolio/)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems+%2F%2F+from+idea+to+working+product;LLM+Workflows+%C2%B7+Agentic+AI+%C2%B7+Full-Stack+Automation;Rapid+Prototyping+%C2%B7+Real-World+Utility)](https://adharsh96.github.io/Portfolio/)
+
+</div>
+
+---
+
+```
+// BORN  08 · 07 · 1996     //  LOCATION  PALAKKAD, INDIA
+// ROLE  AI DEVELOPER        //  FOCUS     BUILD PRACTICAL SYSTEMS
+```
+
+---
+
+**I build rapid prototypes, AI-driven workflows, and full-stack tools that turn rough ideas into working systems.**
+Work lives between Python, JavaScript, LLM integrations, data pipelines, and visual communication —
+shaped by computer science, aerospace outreach, and business analytics.
+
+---
+
+### `// LANGUAGES`
+
+![Python](https://img.shields.io/badge/PYTHON-1A1A1A?style=for-the-badge&logo=python&logoColor=F97316)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F97316)
+![HTML](https://img.shields.io/badge/HTML-1A1A1A?style=for-the-badge&logo=html5&logoColor=F97316)
+![CSS](https://img.shields.io/badge/CSS-1A1A1A?style=for-the-badge&logo=css3&logoColor=F97316)
+![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=F97316)
+
+### `// AI & GENERATIVE AI`
+
+![OpenAI](https://img.shields.io/badge/OPENAI-1A1A1A?style=for-the-badge&logo=openai&logoColor=F97316)
+![Claude](https://img.shields.io/badge/CLAUDE-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=F97316)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1A1A1A?style=for-the-badge&logo=chainlink&logoColor=F97316)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-1A1A1A?style=for-the-badge&logoColor=F97316)
+![Agentic AI](https://img.shields.io/badge/AGENTIC_AI-1A1A1A?style=for-the-badge&logoColor=F97316)
+
+### `// FRAMEWORKS & TOOLS`
+
+![Flask](https://img.shields.io/badge/FLASK-1A1A1A?style=for-the-badge&logo=flask&logoColor=F97316)
+![Pandas](https://img.shields.io/badge/PANDAS-1A1A1A?style=for-the-badge&logo=pandas&logoColor=F97316)
+![NumPy](https://img.shields.io/badge/NUMPY-1A1A1A?style=for-the-badge&logo=numpy&logoColor=F97316)
+![Git](https://img.shields.io/badge/GIT-1A1A1A?style=for-the-badge&logo=git&logoColor=F97316)
+![VS Code](https://img.shields.io/badge/VS_CODE-1A1A1A?style=for-the-badge&logo=visualstudiocode&logoColor=F97316)
+![Power BI](https://img.shields.io/badge/POWER_BI-1A1A1A?style=for-the-badge&logo=powerbi&logoColor=F97316)
+
+---
+
+### `// SELECTED WORK`
+
+| PROJECT | STACK | DESCRIPTION |
+|---|---|---|
+| ✈️ **UAV Simulation Lab** | `Python · JS · Physics Engine` | Physics-based drone simulation platform for aerospace education |
+| 📊 **Gold Transaction Analytics** | `Python · Excel · AI Tool Calling` | Automation platform for digital gold trend analysis |
+| 🎓 **Student Performance Predictor** | `Python · ML · ID3 Decision Tree` | Framework for identifying at-risk students |
+| 🖼 **Image Dataset Pipeline** | `Python · Computer Vision` | High-efficiency AI dataset preparation & quality control |
+
+---
+
+### `// STATS`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adharsh96&show_icons=true&theme=transparent&title_color=F97316&text_color=ffffff&icon_color=F97316&border_color=2B2B2B&bg_color=1A1A1A)&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adharsh96&layout=compact&theme=transparent&title_color=F97316&text_color=ffffff&border_color=2B2B2B&bg_color=1A1A1A)
+
+</div>
+
+---
+
+### `// CONNECT`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=firefoxbrowser&logoColor=F97316)](https://adharsh96.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=F97316)](https://linkedin.com/in/adharshmr)
+[![Email](https://img.shields.io/badge/EMAIL-1A1A1A?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:adharshmr0@gmail.com)
 
 </div>
 
@@ -8,270 +88,11 @@
 
 <div align="center">
 
-<a href="mailto:adharshmr0@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-1A1A1A?style=for-the-badge&logo=gmail&logoColor=F97316"/>
-</a>
+```
+BUILD PRACTICAL SYSTEMS  ◆  AUTOMATE REPETITIVE WORKFLOWS
+PROTOTYPE RAPIDLY  ◆  FOCUS ON REAL-WORLD UTILITY
+```
 
-<a href="https://linkedin.com/in/adharshmr">
-  <img src="https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=F97316"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-1A1A1A?style=for-the-badge&logo=github&logoColor=F97316"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=firefoxbrowser&logoColor=F97316"/>
-</a>
+*CRAFTED WITH PURPOSE AND PRECISION.*
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=AI+Developer;Generative+AI+Engineer;Rapid+Prototype+Builder;LLM+Workflow+Developer;Automation+Systems+Builder;Physics+Simulation+Enthusiast"/>
-
-</div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="32"/> About Me
-
-I build AI-powered applications, automation systems, simulation platforms, and full-stack tools using modern GenAI workflows.
-
-My focus areas include:
-
-- LLM-powered systems
-- Agentic AI workflows
-- AI-assisted development
-- Automation pipelines
-- Aerospace simulation systems
-- Data analytics platforms
-- Full-stack AI applications
-
-I have experience working on scientific outreach systems, AI data operations, and scalable automation platforms at CSIR-National Aerospace Laboratories.
-
-Currently pursuing an MBA in Data Science & Business Analytics while building practical AI products and experimental systems.
-
----
-
-# <img src="https://img.icons8.com/fluency/48/source-code.png" width="32"/> Tech Stack
-
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql"/>
-
----
-
-## AI & Generative AI
-
-<img src="https://img.shields.io/badge/OpenAI-1A1A1A?style=for-the-badge&logo=openai&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/Claude_Code-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-1A1A1A?style=for-the-badge&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/Tool_Calling_Agents-1A1A1A?style=for-the-badge&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/AI_Automation-1A1A1A?style=for-the-badge&logoColor=F97316"/>
-
----
-
-## Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://img.shields.io/badge/REST_API-1A1A1A?style=for-the-badge&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/Pandas-1A1A1A?style=for-the-badge&logo=pandas&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/NumPy-1A1A1A?style=for-the-badge&logo=numpy&logoColor=F97316"/>
-
----
-
-## Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/GitHub_Copilot-1A1A1A?style=for-the-badge&logo=githubcopilot&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/Power_BI-1A1A1A?style=for-the-badge&logo=powerbi&logoColor=F97316"/>
-<img src="https://img.shields.io/badge/Excel_Automation-1A1A1A?style=for-the-badge&logo=microsoftexcel&logoColor=F97316"/>
-
-</div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/rocket.png" width="32"/> Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## ✈️ Physics-Based UAV Simulation Lab
-
-AI-assisted aerospace simulation platform for virtual UAV experimentation and educational outreach.
-
-### Features
-- Physics-based drone simulation
-- UAV behavior prediction
-- Aerospace visualization systems
-- Interactive learning environment
-- Rapid feature prototyping
-
-### Stack
-`Python` `JavaScript` `Physics Engine`
-
-</td>
-
-<td width="50%">
-
-## 📊 Gold Transaction Analytics Platform
-
-Automation platform for analyzing digital gold transaction trends and financial workflows.
-
-### Features
-- GST automation
-- Trend analysis dashboards
-- AI workflow integration
-- Smart transaction categorization
-- Financial analytics pipelines
-
-### Stack
-`Python` `Excel Automation` `AI Tool Calling`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🎓 Student Performance Prediction System
-
-Machine learning framework for identifying academically at-risk students.
-
-### Features
-- ID3 Decision Tree engine
-- Behavioral analysis
-- Tutor-alert system
-- Academic risk forecasting
-- Predictive analytics workflows
-
-### Stack
-`Python` `Machine Learning`
-
-</td>
-
-<td width="50%">
-
-## 🖼 Image Dataset Preparation Pipeline
-
-High-efficiency AI dataset preparation and quality-control pipeline.
-
-### Features
-- Large-scale dataset cleaning
-- Multi-format processing
-- Annotation workflows
-- AI training optimization
-- Quality validation systems
-
-### Stack
-`Python` `Computer Vision`
-
-</td>
-</tr>
-</table>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/briefcase.png" width="32"/> Experience
-
-## 🚁 CSIR – National Aerospace Laboratories  
-### Project Associate | Technical & Data Operations
-
-- Built AI-assisted simulation systems
-- Developed full-stack outreach platforms
-- Created aerospace visualization tools
-- Mentored technical internship students
-- Supported national aerospace programs
-
----
-
-## 🚀 CSIR – National Aerospace Laboratories  
-### Project Assistant | Digital Solutions & Technical Content
-
-- Managed technical deployment workflows
-- Designed UI frameworks and multimedia systems
-- Supported scientific outreach initiatives
-
----
-
-## 🧠 Infolks Pvt. Ltd.  
-### Junior Executive
-
-- Worked on computer vision annotation workflows
-- Performed semantic segmentation and keypoint mapping
-- Supported AI/ML data operations
-- Maintained high-accuracy validation systems
-
----
-
-# <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="32"/> Education
-
-### 🎓 MBA in Data Science & Business Analytics
-University of Mysore *(Pursuing)*
-
-### 💻 B.E. Computer Science and Engineering
-JCT College of Engineering and Technology
-
-### ⚡ Diploma in Electronics Engineering
-Government Polytechnic College, Palakkad
-
----
-
-# <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="32"/> GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=F97316&text_color=ffffff&icon_color=F97316&border_color=F97316&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=F97316&text_color=ffffff&border_color=F97316&bg_color=00000000"/>
-
-</div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/activity-history.png" width="32"/> GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=00000000&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316&border=F97316"/>
-
-</div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/snake.png" width="32"/> Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
-
-</div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="32"/> Current Focus
-
-- AI-powered web applications
-- Agentic workflow systems
-- Full-stack AI integrations
-- Automation-first platforms
-- Aerospace simulation technologies
-- Experimental AI products
-
----
-
-# <img src="https://img.icons8.com/fluency/48/idea.png" width="32"/> Philosophy
-
-```txt
-Build practical systems.
-Automate repetitive workflows.
-Prototype rapidly.
-Focus on real-world utility.
